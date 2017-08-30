@@ -1,1 +1,0 @@
-[Bienen helfen](./bienen.html)
