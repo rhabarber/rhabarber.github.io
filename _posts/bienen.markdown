@@ -1,3 +1,8 @@
+---
+layout: 'github'
+title: 'Ich mag Bienen'
+date: 2018-08-30 13:00:00
+---
 Einige Tipps um Honigbienen und wilden Bienen zu helfen:
 
 * bienenfreundliche Pflanzen pflanzen, z.B. Lavender, Haselnuss, Weiden, Apfelbäume, Birnenbäume, Erdbeeren, (Stech-) Palmen, Gurkenkraut
